@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/reflexxes"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/reflexxes.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/reflexxes-complete.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/reflexxes-prefix/src/reflexxes-stamp/reflexxes-install.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/reflexxes-prefix/src/reflexxes-stamp/reflexxes-mkdir.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/reflexxes-prefix/src/reflexxes-stamp/reflexxes-download.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/reflexxes-prefix/src/reflexxes-stamp/reflexxes-update.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/reflexxes-prefix/src/reflexxes-stamp/reflexxes-patch.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/reflexxes-prefix/src/reflexxes-stamp/reflexxes-configure.rule"
+		},
+		{
+			"file" : "/home/biggunray/Apps/reflexxes_type2/build/reflexxes-prefix/src/reflexxes-stamp/reflexxes-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"reflexxes"
+		],
+		"name" : "reflexxes"
+	}
+}

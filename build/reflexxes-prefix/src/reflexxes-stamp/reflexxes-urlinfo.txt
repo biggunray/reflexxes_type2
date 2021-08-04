@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/jhu-lcsr/reflexxes_type2/blob/upstream-1.2.6/ReflexxesTypeII.zip?raw=true'
+tag=''
