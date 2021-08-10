@@ -1,7 +1,0 @@
-/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/install/strip.dir
-/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/edit_cache.dir
-/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/reflexxes.dir
-/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/rebuild_cache.dir
-/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/list_install_components.dir
-/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/install/local.dir
-/home/biggunray/Apps/reflexxes_type2/build/CMakeFiles/install.dir
