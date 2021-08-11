@@ -14,7 +14,8 @@ set(RML_DEBUG_LIBRARY_DIR "${CMAKE_BINARY_DIR}/reflexxes-prefix/src/reflexxes/Li
 
 ExternalProject_Add(
   reflexxes
-  URL "https://github.com/biggunray/reflexxes_type2/raw/028d452339b56dc015d78dfa1c0cf64f5c7ea660/ReflexxesTypeII.zip"
+  URL "https://github.com/biggunray/reflexxes_type2/blob/file/ReflexxesTypeII.zip?raw=true"
+  
   DOWNLOAD_NAME ReflexxesTypeII.zip
   CONFIGURE_COMMAND ""
   BINARY_DIR reflexxes-prefix/src/reflexxes/Linux
